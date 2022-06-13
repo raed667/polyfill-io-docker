@@ -2,7 +2,8 @@
 
 A very simple project to self-host your own Polyfill.io Docker image.
 
-[![Build Docker](https://github.com/raed667/polyfill-io-docker/actions/workflows/build-docker.yml/badge.svg)](https://github.com/raed667/polyfill-io-docker/actions/workflows/build-docker.yml)
+
+[![Get latest polyfill.io version](https://github.com/raed667/polyfill-io-docker/actions/workflows/get-latest-polyfill-version.yml/badge.svg)](https://github.com/raed667/polyfill-io-docker/actions/workflows/get-latest-polyfill-version.yml) [![Build Docker](https://github.com/raed667/polyfill-io-docker/actions/workflows/build-docker.yml/badge.svg)](https://github.com/raed667/polyfill-io-docker/actions/workflows/build-docker.yml)
 
 Check it out on Docker Hub https://hub.docker.com/r/raed667/polyfill-io
 
